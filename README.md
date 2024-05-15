@@ -1,2 +1,2 @@
 # desktop-cleaner
-Python script to clean desktop
+Python script to clean desktop etc
